@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **SpringBoot, Redis, MySQL, Vue.js, and microservices architecture.**
 - 💞️ I’m looking to collaborate on **open-source projects related to backend development and AI-powered applications.**
 - 📫 How to reach me:  
-  - 📧 Email: **y1335642863@qq.com**  
+  - 📧 Email: **1335642863@qq.com**  
   - 🐙 GitHub: [YangCuteYi](https://github.com/YangCuteYi)  
  
 - ⚡ Fun fact: **I love coding, anime, and exploring new technologies! 🚀**  
